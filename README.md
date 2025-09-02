@@ -1,10 +1,10 @@
-# Happy Teachers Day Jayant Sir 🌟
+# Happy Teachers Day Sulabh Sir 🌟
 
 <img src="img/300px.png" height="200" alt="Happy Teachers Day"/>
 
 Happy Teacher's Day to all the teachers who have helped us become exceptional students! 🎓✨
 
-In celebration of Teachers Day, I created this animated webpage using HTML, CSS, and JavaScript as a tribute to Jayant Sir. This project reflects the dedication and hard work that Jayant Sir has inspired in me.
+In celebration of Teachers Day, I created this animated webpage using HTML, CSS, and JavaScript as a tribute to Jayant Sir. This project reflects the dedication and hard work that Sulabh Sir has inspired in me.
 
 <!-- Add Badge Here (https://shields.io/) -->
 
